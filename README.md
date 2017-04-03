@@ -4,8 +4,6 @@
 
 A simplified Chinese traslation comes from: [https://www.renpy.org/doc/html/](https://www.renpy.org/doc/html/)
 
-Last updated:2016-10-07（GMT+8)
-
 ## 1.入门
 
 ### 快速开始
@@ -98,16 +96,16 @@ Last updated:2016-10-07（GMT+8)
 
 ## 5.其他功能
 
-- 小说模式指南
-- 文本输入
-- 对话框头像
-- 相册，音乐室和重播
-- 可拖动对象
-- 精灵
-- 自定义键盘映射
-- 开发者工具
-- 成就
-- 对话存档
+- 5.1 小说模式指南
+- 5.2 文本输入
+- 5.3 对话框头像
+- 5.4 CG画廊，音乐室和回想模式
+- 5.5 可拖动对象
+- 5.6 精灵
+- 5.7 自定义键盘映射
+- 5.8 开发者工具
+- 5.9 成就
+- 5.10 对话存档
 
 ## 6.Python和Ren'Py
 
